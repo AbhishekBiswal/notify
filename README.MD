@@ -13,12 +13,12 @@ notify("Your Message Here");
 '''
 
 ANYWHERE. You can put it in an onclick event or even onload.
-'''
+```
     <a href="#" onclick="notify('Hello, World!');">Click</a>
-'''
+```
 
-'''
+```
     <script>
         notify("I'll pop up");
     </script>
-'''
+```
