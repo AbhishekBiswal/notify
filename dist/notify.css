@@ -1,0 +1,13 @@
+#notif
+{
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background: rgba(0,0,0,0.8);
+    color: #fff;
+    font-size: 150%;
+    padding: 30px 0;
+}
