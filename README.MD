@@ -1,6 +1,8 @@
 # Notify
 ### Simplest Notification Bar / Box / Bubble around.
 
+Demo : http://wirdd.in/notify
+
 ## Why This?
 Because I needed the same for a project and I found myself writing the same again and again. So I made it into a function which uses jQuery, and only one HTML div which makes it super easy to customize. Right now it's just a bar stuck to the top of the browser and but you can make it fly around :)
 
