@@ -10,9 +10,9 @@ Another reason to make this is for the simplicity. While working on the backend,
 
 ## How?
 Include notify.js and notify.css (or your customized #notify css) in your HTML Document/Documents and fire up the following function anywhere.
-'''
+```
 notify("Your Message Here");
-'''
+```
 
 ANYWHERE. You can put it in an onclick event or even onload.
 ```
